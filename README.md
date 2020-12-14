@@ -8,7 +8,8 @@ Mine BTC, BCH, LTC, DOGE using telegram click bots on Termux.
 
 2. Telegram account
 
-<h4>Join The Bot :-</4>
+<h3>Join The Bot :-</3>
+
 
 BTC  :- https://t.me/BitcoinClick_bot?start=eKFCp
 
