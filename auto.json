@@ -1,6 +1,6 @@
 [
 {"wd":"on",
-"leave":"on",
+"leave":"off",
     "message":"on",
     "join":"on",
     "visit":"on",
