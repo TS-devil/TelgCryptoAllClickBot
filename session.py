@@ -77,7 +77,7 @@ async def main():
 				if (val == "yes"):
 					print(f'{phone_number} add in Numbers.txt')
 					m = open('Numbers.txt', 'a')
-					m.write(phone_number)
+					m.write("\n"+phone_number)
 					m.close()
 					exit()
 				else:
