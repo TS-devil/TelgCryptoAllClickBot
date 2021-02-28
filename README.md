@@ -42,3 +42,5 @@ Donate:-
 BTC : 17sdPPfEVsppaxLYG86Zj1fv31jSrRkkYm
 
 DOGE: D912QexbUYismQiMxWwKnqU8HhUAzyK3XW
+
+LTC : LMeeG911Gu32XnSPf1iw2z9VmwWSEKwmjX
