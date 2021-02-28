@@ -44,3 +44,7 @@ BTC : 17sdPPfEVsppaxLYG86Zj1fv31jSrRkkYm
 DOGE: D912QexbUYismQiMxWwKnqU8HhUAzyK3XW
 
 LTC : LMeeG911Gu32XnSPf1iw2z9VmwWSEKwmjX
+
+ZEC : t1NPYTM4mbu3TiT2E4yneW5MUP8MKAxkn2f
+
+BCH : qq5n5gj4p5q0e9esyt276ujztr4casdw75yj8j79nc
