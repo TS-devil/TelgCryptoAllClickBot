@@ -38,6 +38,7 @@ python clickbotsNonstopv6.py
 
 <h4>To get The access password an link provide on script</h4>
 Donate:-
+
 BTC : 17sdPPfEVsppaxLYG86Zj1fv31jSrRkkYm
 
 DOGE: D912QexbUYismQiMxWwKnqU8HhUAzyK3XW
